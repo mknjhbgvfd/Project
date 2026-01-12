@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "WebApp.sln",
+    "idf.pythonInstallPath": "/usr/bin/python3"
+}
